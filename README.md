@@ -6,7 +6,7 @@ Seja bem-vindo ao Roadmap de Aprendizado para o Desenvolvimento de Habilidades T
 
 1. [Mês 1: HTML, CSS e JavaScript](#mês-1-html-css-e-javascript)
 2. [Mês 2: Front-End Frameworks](#mês-2-front-end-frameworks)
-3. [Mês 3: Back-End com Node.js](#mês-3-back-end-com-node-js)
+3. [Mês 3: Back-End com Node.js](#mês-3-back-end-com-nodejs)
 4. [Mês 4: Desenvolvimento Web com Python e Django](#mês-4-desenvolvimento-web-com-python-e-django)
 5. [Mês 5: Banco de Dados e NoSQL](#mês-5-banco-de-dados-e-nosql)
 6. [Mês 6: Desenvolvimento Mobile](#mês-6-desenvolvimento-mobile)
