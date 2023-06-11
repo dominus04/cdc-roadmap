@@ -6,7 +6,7 @@ Seja bem-vindo ao Roadmap de Aprendizado para o Desenvolvimento de Habilidades T
 
 1. [Mês 1: HTML, CSS e JavaScript](#mês-1-html-css-e-javascript)
 2. [Mês 2: Front-End Frameworks](#mês-2-front-end-frameworks)
-3. [Mês 3: Back-End com Java e Spring Framework](#mês-3-back-end-com-java-e-spring-framework)
+3. [Mês 3: Back-End com Node.js](#mês-3-back-end-com-node-js)
 4. [Mês 4: Desenvolvimento Web com Python e Django](#mês-4-desenvolvimento-web-com-python-e-django)
 5. [Mês 5: Banco de Dados e NoSQL](#mês-5-banco-de-dados-e-nosql)
 6. [Mês 6: Desenvolvimento Mobile](#mês-6-desenvolvimento-mobile)
@@ -48,10 +48,10 @@ O objetivo deste roadmap é fornecer uma direção clara para o desenvolvimento 
 
 ## Mês 1: HTML, CSS e JavaScript
 
-- [ ] Semana 1: HTML (estrutura e elementos básicos)
-- [ ] Semana 2: CSS (estilização, layout responsivo)
-- [ ] Semana 3: JavaScript (fundamentos)
-- [ ] Semana 4: JavaScript (manipulação do DOM, eventos)
+- [x] Semana 1: HTML (estrutura e elementos básicos)
+- [x] Semana 2: CSS (estilização, layout responsivo)
+- [x] Semana 3: JavaScript (fundamentos)
+- [x] Semana 4: JavaScript (manipulação do DOM, eventos)
 
 ## Mês 2: Front-End Frameworks
 
@@ -60,12 +60,11 @@ O objetivo deste roadmap é fornecer uma direção clara para o desenvolvimento 
 - [ ] Semana 3: Angular (componentes, diretivas, serviços)
 - [ ] Semana 4: Angular (roteamento, formulários reativos)
 
-## Mês 3: Back-End com Java e Spring Framework
-
-- [ ] Semana 1: Java (fundamentos, orientação a objetos)
-- [ ] Semana 2: Java (coleções, entrada/saída)
-- [ ] Semana 3: Spring Framework (IoC, DI, MVC)
-- [ ] Semana 4: Spring Framework (persistência de dados com JPA, segurança)
+## Mês 3: Back-End com Node.js
+- [ ] Semana 1: Node.js (introdução, módulos e gerenciadores de pacotes)
+- [ ] Semana 2: Express.js (criação de APIs RESTful)
+- [ ] Semana 3: Banco de Dados com Node.js (conexão, queries, ORM)
+- [ ] Semana 4: Autenticação e Autorização com Node.js
 
 ## Mês 4: Desenvolvimento Web com Python e Django
 
