@@ -61,22 +61,22 @@ O objetivo deste roadmap é fornecer uma direção clara para o desenvolvimento 
 - [ ] Semana 4: Angular (roteamento, formulários reativos)
 
 ## Mês 3: Back-End com Node.js
-- [ ] Semana 1: Node.js (introdução, módulos e gerenciadores de pacotes)
+- [x] Semana 1: Node.js (introdução, módulos e gerenciadores de pacotes)
 - [ ] Semana 2: Express.js (criação de APIs RESTful)
 - [ ] Semana 3: Banco de Dados com Node.js (conexão, queries, ORM)
 - [ ] Semana 4: Autenticação e Autorização com Node.js
 
 ## Mês 4: Desenvolvimento Web com Python e Django
 
-- [ ] Semana 1: Python (fundamentos, estruturas de dados)
-- [ ] Semana 2: Python (funções, módulos, pacotes)
+- [x] Semana 1: Python (fundamentos, estruturas de dados)
+- [x] Semana 2: Python (funções, módulos, pacotes)
 - [ ] Semana 3: Django (modelos, views, templates)
 - [ ] Semana 4: Django (autenticação, administração)
 
 ## Mês 5: Banco de Dados e NoSQL
 
-- [ ] Semana 1: SQL (consultas, alterações de dados)
-- [ ] Semana 2: SQL (relacionamentos, otimização)
+- [x] Semana 1: SQL (consultas, alterações de dados)
+- [x] Semana 2: SQL (relacionamentos, otimização)
 - [ ] Semana 3: NoSQL (MongoDB ou Redis)
 - [ ] Semana 4: ORM (Object-Relational Mapping)
 
@@ -89,7 +89,7 @@ O objetivo deste roadmap é fornecer uma direção clara para o desenvolvimento 
 
 ## Mês 7: DevOps e Cloud Computing
 
-- [ ] Semana 1: Git (controle de versão, branches)
+- [x] Semana 1: Git (controle de versão, branches)
 - [ ] Semana 2: Implantação com Heroku (front-end)
 - [ ] Semana 3: AWS (EC2, S3, RDS)
 - [ ] Semana 4: Azure ou Google Cloud Platform (funcionalidades principais)
