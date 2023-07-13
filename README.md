@@ -62,8 +62,8 @@ O objetivo deste roadmap é fornecer uma direção clara para o desenvolvimento 
 
 ## Mês 3: Back-End com Node.js
 - [x] Semana 1: Node.js (introdução, módulos e gerenciadores de pacotes)
-- [ ] Semana 2: Express.js (criação de APIs RESTful)
-- [ ] Semana 3: Banco de Dados com Node.js (conexão, queries, ORM)
+- [x] Semana 2: Express.js (criação de APIs RESTful)
+- [x] Semana 3: Banco de Dados com Node.js (conexão, queries, ORM)
 - [ ] Semana 4: Autenticação e Autorização com Node.js
 
 ## Mês 4: Desenvolvimento Web com Python e Django
