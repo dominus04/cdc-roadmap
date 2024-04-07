@@ -57,8 +57,8 @@ O objetivo deste roadmap é fornecer uma direção clara para o desenvolvimento 
 
 - [ ] Semana 1: React.js (componentes, estado, ciclo de vida)
 - [ ] Semana 2: React.js (roteamento, gerenciamento de estado com Redux)
-- [ ] Semana 3: Angular (componentes, diretivas, serviços)
-- [ ] Semana 4: Angular (roteamento, formulários reativos)
+- [x] Semana 3: Angular (componentes, diretivas, serviços)
+- [x] Semana 4: Angular (roteamento, formulários reativos)
 
 ## Mês 3: Back-End com Node.js
 - [x] Semana 1: Node.js (introdução, módulos e gerenciadores de pacotes)
@@ -77,8 +77,8 @@ O objetivo deste roadmap é fornecer uma direção clara para o desenvolvimento 
 
 - [x] Semana 1: SQL (consultas, alterações de dados)
 - [x] Semana 2: SQL (relacionamentos, otimização)
-- [ ] Semana 3: NoSQL (MongoDB ou Redis)
-- [ ] Semana 4: ORM (Object-Relational Mapping)
+- [x] Semana 3: NoSQL (MongoDB ou Redis)
+- [x] Semana 4: ORM (Object-Relational Mapping)
 
 ## Mês 6: Desenvolvimento Mobile
 
